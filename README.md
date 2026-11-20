@@ -1,4 +1,3 @@
-
 # E-Commerce Order Fulfilment and Delivery Optimizer
 
 **DAA Project 02** · Navya Agarwal · SAP ID 590024728 · B.Tech CSE (AI & ML)
@@ -11,6 +10,8 @@ An order-to-delivery planning console for an online shop in Ahmedabad. It:
 - lets a customer **track** an order
 
 It uses **sorting and searching, divide and conquer, greedy**, and two **dynamic programming** problems (**0/1 knapsack** and **matrix chain**). For each topic it compares at least two methods on steps, memory and time.
+
+> AI assistance: Claude (an AI assistant) was used to help write and structure this code.
 
 ---
 
