@@ -1,0 +1,9 @@
+id,customer,area,weight_kg,value_rs,slot_start,slot_end
+1,Good,Bopal,3.5,2499,9,11
+2,NegativeWeight,Bopal,-4,100,9,11
+3,SlotBackwards,Paldi,1,100,15,10
+4,UnknownArea,Mumbai,1,100,9,11
+5,NotANumber,Paldi,abc,100,9,11
+6,TooShort,Paldi
+1,DuplicateID,Bopal,2,100,9,11
+7,AlsoGood,Gota,2,500,10,12
